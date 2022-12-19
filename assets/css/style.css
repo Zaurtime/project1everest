@@ -89,12 +89,12 @@ nav {
 
 #everest-box h2{
     font-size: 34px;
-    color:#0815c4
+    color: #1709e4
 }
 #everest-box p{
     margin: 10px o 30px;
     font-size: 20px;
-    color:#0815c4
+    color:#1709e4
 }
 
 #ready-press {
@@ -203,5 +203,10 @@ nav {
   text-align: center;
   padding: 100px 0;
 }
+.contact h1 {
+    color:black;
+    margin-bottom: 250px;
+    padding: 0;
 
+}
 
