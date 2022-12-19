@@ -140,7 +140,7 @@ nav {
 
 .climbing-map p {
     font-size: 26px;
-    color: red;
+    color: #1709e4;
     font-weight: 300;
     line-height: 22px;
     padding: 10px;
@@ -155,7 +155,7 @@ nav {
 }
 #ways {
     flex-basis: 31%;
-    background: #1fe7e7;
+    background: black;
     border-radius: 10px;
     margin-bottom: 5%;
     padding: 20px 12px;
@@ -189,6 +189,9 @@ nav {
     text-align: center;
     padding-top: 50px;
 
+}
+#office-location h3 {
+    color: #f7e605;
 }
 
 /* --call to action-- */
