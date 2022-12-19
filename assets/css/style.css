@@ -191,7 +191,7 @@ nav {
 
 }
 #office-location h3 {
-    color: #f7e605;
+    color: rgb(243, 247, 250);
 }
 
 /* --call to action-- */
@@ -220,3 +220,36 @@ nav {
     }
 }
 
+/*footer space*/
+.footer {
+    width: 100%;
+    text-align: center;
+    padding: 30px 0;
+
+}
+
+.footer h4{
+    margin-bottom: 25px;
+    margin-top: 20px;
+    font-weight: 777;
+}
+#social {
+    margin: 0 13px;
+    cursor: pointer;
+    padding: 18px 0;
+}
+#social li{
+    display: inline;
+}
+#social i{
+    font-size: 90px;
+    margin: 1%;
+    padding: 5%;
+    background-color: black;
+}
+
+p1 {
+    background-color:black;
+    width: 80%;
+    color: rgb(243, 247, 250);
+}
