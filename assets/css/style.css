@@ -148,3 +148,17 @@ nav {
 
 }
 
+#trek-base {
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+}
+#ways {
+    flex-basis: 31%;
+    background: #1fe7e7;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+}
+
