@@ -169,13 +169,7 @@ nav {
 
 }
 
-.office {
-    width: 80%;
-    margin: auto;
-    text-align: center;
-    padding-top: 50px;
 
-}
 
 #trek-base {
     flex-basis: 32%;
@@ -189,4 +183,12 @@ nav {
 #trek-base img {
     width: 100%;
 }
+.office {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+
+}
+
 
