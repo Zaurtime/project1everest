@@ -57,7 +57,7 @@ nav {
 }
 
 .links ul li a {
-    color: #fff;
+    color: #1709e4;
     text-decoration: none;
     font-size: 18px;
 
@@ -67,7 +67,7 @@ nav {
     content: '';
     width: 0%;
     height: 2px;
-    background: #0815c4;
+    background: darkorange;
     display: block;
     margin: auto;
     transition: 0.5s;
@@ -123,4 +123,28 @@ nav {
     }
 }
 
+/*----- Everest base camp map----- */
+
+.climbing-map {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+
+}
+
+.climbing-map h2 {
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.climbing-map p {
+    font-size: 26px;
+    color: red;
+    font-weight: 300;
+    line-height: 22px;
+    padding: 10px;
+
+
+}
 
