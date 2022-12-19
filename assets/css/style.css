@@ -119,11 +119,11 @@ nav {
 
 @media(max-width:700px) {
     #everest-box h2{
-        font-size: 20px;
+        font-size: 4px;
     }
 }
 
-/*----- Everest base camp map----- */
+/* everest climbing map */
 
 .climbing-map {
     width: 80%;
@@ -160,5 +160,33 @@ nav {
     margin-bottom: 5%;
     padding: 20px 12px;
     box-sizing: border-box;
+}
+
+@media(max-width: 700px){
+    #trek-base {
+        flex-direction: column;
+    }
+
+}
+
+.office {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+
+}
+
+#trek-base {
+    flex-basis: 32%;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    position: relative;
+    overflow: hidden;
+
+}
+
+#trek-base img {
+    width: 100%;
 }
 
