@@ -67,7 +67,7 @@ nav {
     content: '';
     width: 0%;
     height: 2px;
-    background: darkorange;
+    background: rgb(36, 240, 47);
     display: block;
     margin: auto;
     transition: 0.5s;
@@ -89,18 +89,18 @@ nav {
 
 #everest-box h2{
     font-size: 34px;
-    color: #1709e4
+    color: black
 }
 #everest-box p{
     margin: 10px o 30px;
     font-size: 20px;
-    color:#1709e4
+    color:black
 }
 
 #ready-press {
     display: inline-block;
     text-decoration: none;
-    color:darkblue;
+    color:rgb(8, 10, 1);
     border: 2px solid darkgreen;
     padding: 12px 34px;
     font-size:16px;
@@ -111,8 +111,8 @@ nav {
 }
 
 #ready-press:hover{
-    border: 1px solid darkgoldenrod;
-    background-color:darkgoldenrod ;
+    border: 1px solid black;
+    background-color:rgb(36, 240, 47);
     transition: 0.2s;
 
 }
@@ -194,9 +194,9 @@ nav {
 /* --call to action-- */
 .contact {
   margin: 100px auto;
-  height: 613px;
+  height: 313px;
   width: 80%;
-  background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../images/Budda.jpg);
+  background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../images/Copy\ Everest.jpg);
   background-position: center;
   background-size: cover;
   border-radius: 10px;
@@ -205,8 +205,15 @@ nav {
 }
 .contact h1 {
     color:black;
-    margin-bottom: 250px;
+    margin-bottom: 80px;
     padding: 0;
 
+}
+
+@media(max-width: 700px){
+    .contact h1 {
+        font-size: 24px;
+
+    }
 }
 
