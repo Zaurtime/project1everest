@@ -24,7 +24,7 @@ body {
     position: relative;
 }
 
-h1,h2 {
+h1 {
     font-family: Lobster,sans-serif;
    text-align: center;
    margin: 20px 0;
@@ -77,3 +77,35 @@ nav {
     width: 100%;
 }
 
+#everest-box {
+    width: 90%;
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+
+#everest-box h2{
+    font-size: 34px;
+    color:#0815c4
+}
+#everest-box p{
+    margin: 10px o 30px;
+    font-size: 20px;
+    color:#0815c4
+}
+
+#ready-press {
+    display: inline-block;
+    text-decoration: none;
+    color:darkblue;
+    border: 2px solid darkgreen;
+    padding: 12px 34px;
+    font-size:16px;
+    background: transparent;
+    position:relative;
+    cursor: pointer;
+
+}
