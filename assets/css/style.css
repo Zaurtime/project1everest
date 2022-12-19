@@ -191,4 +191,17 @@ nav {
 
 }
 
+/* --call to action-- */
+.contact {
+  margin: 100px auto;
+  height: 613px;
+  width: 80%;
+  background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../images/Budda.jpg);
+  background-position: center;
+  background-size: cover;
+  border-radius: 10px;
+  text-align: center;
+  padding: 100px 0;
+}
+
 
