@@ -28,7 +28,7 @@ h1 {
     font-family: Lobster,sans-serif;
    text-align: center;
    margin: 20px 0;
-   font-size: 490%;
+   font-size: 300%;
    color: black ;
 
 
@@ -109,3 +109,18 @@ nav {
     cursor: pointer;
 
 }
+
+#ready-press:hover{
+    border: 1px solid darkgoldenrod;
+    background-color:darkgoldenrod ;
+    transition: 0.2s;
+
+}
+
+@media(max-width:700px) {
+    #everest-box h2{
+        font-size: 20px;
+    }
+}
+
+
