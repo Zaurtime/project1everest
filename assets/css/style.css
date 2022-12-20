@@ -292,4 +292,27 @@ width: 100%;
         height:250px;}
 
     }
+
+    /*-----Sign Up-----*/
+
+    .end {
+        width: 100%;
+        height: 100vh;
+        font-family: sans-serif;
+        background: rgb(36, 240, 47);
+        color: #fff;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+    }
+    
+    .card {
+        width: 350px;
+        height: 500px;
+        box-shadow: 0 0 40px 20px rgb(11, 25, 226)
+
+        
+
+    }
     
