@@ -358,3 +358,43 @@ width: 100%;
         color: #fff;
 
     }
+
+    ::placeholder {
+        color: #fff;
+        font-size: 12px;
+    }
+
+    button {
+        width: 100%;
+        background: transparent;
+        border: 1px solid #fff;
+        margin: 35px 0 10px;
+        height: 32px;
+        font-size: 12px;
+        border-radius: 20px;
+        padding: 0 10px;
+        box-sizing: border-box;
+        outline: none;
+        color: #fff;
+        cursor: pointer;
+
+    }
+
+    .sub {
+        position: relative;
+    }
+
+    .sub::after {
+        content: '\27a4';
+        color: #333;
+        line-height: 32px;
+        font-size: 17px;
+        height: 32px;
+        width: 32px;
+        border-radius: 50px;
+        background: #fff;
+        position: absolute;
+        right: -1px;
+        top: -1px;
+        
+    }
