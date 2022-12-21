@@ -5,11 +5,12 @@
     margin: 0;
     padding: 0;
     border: none;
-    font-family: Roboto Mono , sans-serif;
+    font-family: Arial, sans-serif;
+    box-sizing: border-box;
 }
 
 body {
-    font-family: Roboto Mono , sans-serif;
+    font-family: Aerial, sans-serif;
     font-weight: 613;
    
 }
@@ -25,7 +26,7 @@ body {
 }
 
 h1 {
-    font-family: Roboto Mono,sans-serif;
+    font-family: Arial,sans-serif;
    text-align: center;
    margin: 20px 0;
    font-size: 300%;
@@ -101,10 +102,10 @@ nav {
     display: inline-block;
     text-decoration: none;
     color:black;
-    border: 2px solid rgb(0, 10, 0);
+    border: 2px solid white;
     padding: 12px 34px;
     font-size:20px;
-    background: transparent;
+    background:whitesmoke;
     position:relative;
     cursor: pointer;
 
@@ -115,6 +116,8 @@ nav {
     background-color: black;
     color: blue;
     transition: 0.2s;
+    
+    
 
 }
 
@@ -299,6 +302,9 @@ width: 100%;
     }
 
     /*-----Sign Up-----*/
+    #permit h2,p {
+        text-align: center;
+    }
 
     .end {
         width: 100%;
@@ -425,3 +431,8 @@ width: 100%;
         margin-top: 8px;
 
     }
+
+    @media(max-width:700px) {
+        .end {
+            font-size: 24px;}
+        }
