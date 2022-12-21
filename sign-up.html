@@ -41,16 +41,6 @@
     <div class="card">
         <div class="incard" id="card">
             <div id="cardfront">
-                <h5>Login</h5>
-                <form action="contact.html">
-                    <input type="email" class="input-box" placeholder="Your Email Id" required>
-                    <input type="password" class="input-box" placeholder="Password " required>
-                    <button type="submit" class="sub">Submit</button>
-                    <input type="checkbox"><span>Dreaming Big</span>
-                </form>
-                <button type="button" class="new" onclick="openRegister()">I'm New Here</button><a href="#">Forgot Password</a>
-            </div>
-            <div id="cardback">
                 <h5>REGISTER</h5>
                 <form action="contact.html">
                     <input type="text" class="input-box" placeholder="Your Name" required>
@@ -61,6 +51,17 @@
                 </form>
                 <button type="button" class="new" onclick="openLogin()">I've an accaunt</button><a href="#">Forgot Password</a>
             </div>
+            <div id="cardback">
+                <h5>Login</h5>
+                <form action="contact.html">
+                    <input type="email" class="input-box" placeholder="Your Email Id" required>
+                    <input type="password" class="input-box" placeholder="Password " required>
+                    <button type="submit" class="sub">Submit</button>
+                    <input type="checkbox"><span>Dreaming Big</span>
+                </form>
+                <button type="button" class="new" onclick="openRegister()">I'm New Here</button><a href="#">Forgot Password</a>
+            </div>
+            
 
         </div>
     </div>
@@ -91,10 +92,10 @@
         var card = document.getElementById("card")
 
         function openRegister(){
-            card.style.transform = "rotateY(-180deg)";}
+            card.style.transform = "rotateY(0deg)";}
 
         function openLogin(){
-            card.style.transform = "rotateY(0deg)";
+            card.style.transform = "rotateY(-180deg)";
         }
     </script>
 </body>
