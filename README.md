@@ -47,5 +47,31 @@ Climb Everest is a website thats allows users to inspire do trekking in Nepal wi
 
 * About Us
   * About Us shortly describes our company purpose and our core value about "Anything Possible".Specially short introduction to keep client interest to learn more about us on social media links wich are directly bellow and webpages inside site.
+  
+![About](https://user-images.githubusercontent.com/119350794/209115058-ef0d2511-90a5-409a-b3ec-a4cdb96125f0.png)
+
+### Climbing Map
+* Climbing Map pages always changes because depending on the weather condition.Currently one way right.
+![climbMap](https://user-images.githubusercontent.com/119350794/209115440-32051a62-53a2-4f98-a898-fc3ea618c4e7.png)
+
+### Images
+* Gallery where customers can see what to expect on the trip.You can see for example bellow
+![example1](https://user-images.githubusercontent.com/119350794/209116713-3c8662b1-d907-41c8-8415-0d20608525ff.png)
+
+![examp2](https://user-images.githubusercontent.com/119350794/209116876-bf0dda83-aa2c-497a-854f-4cfa5f1f2277.png)
+
+### Sign Up
+* Sign Up pages brings you closer to your dream conquer Everest.Register card its first step to complete.We promisse to our clients reserve permit to the TOP. The form will consist of the following fields and attributes:
+![REGISTER](https://user-images.githubusercontent.com/119350794/209118108-8e9ab151-a2e0-4615-a7ca-d70859e35a0e.png)
+
+
+* Sign Up page have reverse card if you click "I've an account".This means we have clients already and for existing customers it will be pleasant we remeber them.The next form will consist of the following fields and attributes:
+![LOGIN](https://user-images.githubusercontent.com/119350794/209119074-c0475347-a6a1-4139-bf92-9c674e1e8c5a.png)
+
+* Submit button in Register card after all required filled will show customers that we recived and if urgently need Climb Everest they can call immediately,check please example bellow:
+![R1](https://user-images.githubusercontent.com/119350794/209120211-5b0f5b87-af83-459a-87ef-ed3d6797d9b6.png)
+
+* Submit button in Login card after all required filled will show customers that we greeting them back with name in our system and if they need urgently Climb Everest again and climbing different ways can call on hot line,check please example bellow:
+![Log](https://user-images.githubusercontent.com/119350794/209121364-c62c70d3-193f-4051-9cc0-e5392484bc2f.png)
 
 
