@@ -35,8 +35,10 @@ Climb Everest is a website thats allows users to inspire do trekking in Nepal wi
     
   * Information about office locations accros the world if clients decide to pay by cash and make sure company Climb Everest is real.
 ![Office title](https://user-images.githubusercontent.com/119350794/209079638-05d99b51-0d37-47d2-beff-7ccc7e275146.png)
- * First office based in the United Arab Emirates,Dubai city![DubaiMarina](https://user-images.githubusercontent.com/119350794/209080184-f71a79d9-82cc-4fc1-8adc-ae8a50ac15f7.png)
- * Second office location in Ukraine,Kyiv city![Kyiv](https://user-images.githubmausercontent.com/119350794/209080732-45e35e4e-870b-4c89-ad59-d54d329b755b.png)
+ * First office based in the United Arab Emirates,Dubai city
+ ![DubaiMarina](https://user-images.githubusercontent.com/119350794/209080184-f71a79d9-82cc-4fc1-8adc-ae8a50ac15f7.png)
+ * Second office location in Ukraine,Kyiv city
+ ![Kyiv](https://user-images.githubmausercontent.com/119350794/209080732-45e35e4e-870b-4c89-ad59-d54d329b755b.png)
  * Third one main office in Ireland,Dublin city
 ![Dublin](https://user-images.githubusercontent.com/119350794/209081036-a364bf32-47b8-46d6-a2bd-5c55c530a58b.png)
 
@@ -88,8 +90,8 @@ Website was also opened on the following devices and no responsive issues were s
    * Laptop Lenovo ThinkPad T460
    * MacBook PRO M1 14 (2021)
 
-##Accessibility
-Testing was focused to ensure the following criteria were met:
+## Accessibility
+ * Testing was focused to ensure the following criteria were met:
 
 - All forms have associated labels or aria-labels so that this is read out on a screen reader to users who tab to form inputs
 - Color contrasts meet a minimum ratio as specified in [WCAG 2.1 Contrast Guidelines](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html)
@@ -108,8 +110,10 @@ Manual tests were also performed to ensure the website was accessible as possibl
 
 ### W3C Validation Testing
 
-* html no errors ![NoErrors](https://user-images.githubusercontent.com/119350794/209127829-3cef5917-3ec7-4ba9-9e5a-b613f17c0a1f.png)
-* css no errors ![CSSnoErr](https://user-images.githubusercontent.com/119350794/209127910-b7ebc955-9043-4779-82de-dd48b86b8835.png)
+* html no errors 
+![NoErrors](https://user-images.githubusercontent.com/119350794/209127829-3cef5917-3ec7-4ba9-9e5a-b613f17c0a1f.png)
+* css no errors 
+![CSSnoErr](https://user-images.githubusercontent.com/119350794/209127910-b7ebc955-9043-4779-82de-dd48b86b8835.png)
 
 ## Credits 
 
@@ -117,10 +121,13 @@ Manual tests were also performed to ensure the website was accessible as possibl
 
 * Youtube https://www.youtube.com/watch?v=KhGWbt1dAKQ&t=365s
 
+* Mentor Mr.Gareth McGirr
 
 ### Content 
 
 All content listed in the Media section of this document.Permission was granted from free stock images.
+
+* The icons in the footer were taken from Font Awesome
 
 ### Media
 * Used their jpg map images in Climbing map page.
