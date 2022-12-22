@@ -157,7 +157,7 @@ nav {
     display: flex;
     justify-content: space-between;
 }
-#ways {
+.ways {
     flex-basis: 31%;
     background: black;
     border-radius: 10px;
@@ -194,7 +194,7 @@ nav {
     padding-top: 50px;
 
 }
-#office-location h3 {
+.office-location h3 {
     color: rgb(243, 247, 250);
 }
 
