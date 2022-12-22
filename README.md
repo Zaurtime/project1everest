@@ -138,8 +138,8 @@ All content listed in the Media section of this document.Permission was granted 
 * Used their jpg map images in Climbing map page.
 https://excitingnepal.com/
 
-* Used their images in Images page.
- shutterstock.com/
+
+ https://shutterstock.com/ * Used their images in Images page 
 
 ### Unfixed Bugs
 
