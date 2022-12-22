@@ -27,3 +27,16 @@ Climb Everest is a website thats allows users to inspire do trekking in Nepal wi
 
 ![LandingPage](https://user-images.githubusercontent.com/119350794/209075294-1c5249cd-cfad-4d3f-ad3c-dbad104dba6d.png)
 ![CallToAction](https://user-images.githubusercontent.com/119350794/209076359-ae8ef221-b62c-4a14-b6b1-fe1739b956f6.png)
+
+ * Website information Climb Everest 
+   *  Information about 'Climb Everest' and the websites purpose including an images of three ways to hike to the Everest base camp and climb Top of the world
+    * This information lets the user know what the site is about
+    ![Offer trek](https://user-images.githubusercontent.com/119350794/209078242-08b092f0-b1fd-4885-88ba-300451571df5.png)
+    
+  * Information about office locations accros the world if clients decide to pay by cash and make sure company Climb Everest is real.
+![Office title](https://user-images.githubusercontent.com/119350794/209079638-05d99b51-0d37-47d2-beff-7ccc7e275146.png)
+ * First office based in the United Arab Emirates,Dubai city![DubaiMarina](https://user-images.githubusercontent.com/119350794/209080184-f71a79d9-82cc-4fc1-8adc-ae8a50ac15f7.png)
+ * Second office location in Ukraine,Kyiv city![Kyiv](https://user-images.githubmausercontent.com/119350794/209080732-45e35e4e-870b-4c89-ad59-d54d329b755b.png)
+ * Third one main office in Ireland,Dublin city
+![Dublin](https://user-images.githubusercontent.com/119350794/209081036-a364bf32-47b8-46d6-a2bd-5c55c530a58b.png)
+
