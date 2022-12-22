@@ -45,4 +45,7 @@ Climb Everest is a website thats allows users to inspire do trekking in Nepal wi
 
 ![Enroll to climb Everest](https://user-images.githubusercontent.com/119350794/209082561-105b560b-9b77-433c-a96f-8c601748f707.png)
 
+* About Us
+  * About Us shortly describes our company purpose and our core value about "Anything Possible".Specially short introduction to keep client interest to learn more about us on social media links wich are directly bellow and webpages inside site.
+
 
