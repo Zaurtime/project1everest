@@ -38,7 +38,8 @@ Climb Everest is a website thats allows users to inspire do trekking in Nepal wi
  * First office based in the United Arab Emirates,Dubai city
  ![DubaiMarina](https://user-images.githubusercontent.com/119350794/209080184-f71a79d9-82cc-4fc1-8adc-ae8a50ac15f7.png)
  * Second office location in Ukraine,Kyiv city
- ![Kyiv](https://user-images.githubmausercontent.com/119350794/209080732-45e35e4e-870b-4c89-ad59-d54d329b755b.png)
+ ![Kyiv](https://user-images.githubusercontent.com/119350794/209167013-3533c4fc-0ce1-4b60-b207-f3456bb14091.png)
+
  * Third one main office in Ireland,Dublin city
 ![Dublin](https://user-images.githubusercontent.com/119350794/209081036-a364bf32-47b8-46d6-a2bd-5c55c530a58b.png)
 
@@ -105,14 +106,18 @@ Website was also opened on the following devices and no responsive issues were s
 Manual tests were also performed to ensure the website was accessible as possible and an accessibility issue was identified.
 
 ### Lighthouse Testing
-* Desktop test ![LightDesktop](https://user-images.githubusercontent.com/119350794/209126896-21ec06dd-7d56-4c12-8297-12f2f6194566.png)
-* Mobile test ![LightMobile](https://user-images.githubusercontent.com/119350794/209126941-e1be3e39-d0d8-4fed-bee3-372afb885b58.png)
+  * Desktop test 
+![LightDesktop](https://user-images.githubusercontent.com/119350794/209126896-21ec06dd-7d56-4c12-8297-12f2f6194566.png)
+  * Mobile test 
+![LightMobile](https://user-images.githubusercontent.com/119350794/209126941-e1be3e39-d0d8-4fed-bee3-372afb885b58.png)
 
 ### W3C Validation Testing
+ * html no errors 
 
-* html no errors 
 ![NoErrors](https://user-images.githubusercontent.com/119350794/209127829-3cef5917-3ec7-4ba9-9e5a-b613f17c0a1f.png)
-* css no errors 
+
+ * css no errors 
+ 
 ![CSSnoErr](https://user-images.githubusercontent.com/119350794/209127910-b7ebc955-9043-4779-82de-dd48b86b8835.png)
 
 ## Credits 
