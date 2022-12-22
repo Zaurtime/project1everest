@@ -78,7 +78,7 @@ nav {
     width: 100%;
 }
 
-#everest-box {
+.everest-box {
     width: 90%;
     color: #fff;
     position: absolute;
@@ -88,17 +88,17 @@ nav {
     text-align: center;
 }
 
-#everest-box h2{
+.everest-box h2{
     font-size: 34px;
     color: black
 }
-#everest-box p{
+.everest-box p{
     margin: 10px 0 30px;
     font-size: 20px;
     color:black
 }
 
-#ready-press {
+.ready-press {
     display: inline-block;
     text-decoration: none;
     color:black;
@@ -111,7 +111,7 @@ nav {
 
 }
 
-#ready-press:hover{
+.ready-press:hover{
     border: 2px solid #fff;
     background-color: black;
     color: blue;
@@ -152,7 +152,7 @@ nav {
 
 }
 
-#trek-base {
+.trek-base {
     margin-top: 5%;
     display: flex;
     justify-content: space-between;
@@ -167,7 +167,7 @@ nav {
 }
 
 @media(max-width: 700px){
-    #trek-base {
+    .trek-base {
         flex-direction: column;
     }
 
@@ -175,7 +175,7 @@ nav {
 
 
 
-#trek-base {
+.trek-base {
     flex-basis: 32%;
     border-radius: 10px;
     margin-bottom: 30px;
@@ -184,7 +184,7 @@ nav {
 
 }
 
-#trek-base img {
+.trek-base img {
     width: 100%;
 }
 .office {
