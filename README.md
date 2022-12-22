@@ -74,4 +74,67 @@ Climb Everest is a website thats allows users to inspire do trekking in Nepal wi
 * Submit button in Login card after all required filled will show customers that we greeting them back with name in our system and if they need urgently Climb Everest again and climbing different ways can call on hot line,check please example bellow:
 ![Log](https://user-images.githubusercontent.com/119350794/209121364-c62c70d3-193f-4051-9cc0-e5392484bc2f.png)
 
+## Testing
+* Website is responsive on all screen sizes and no images are pixelated or stretched. No horizontal scroll is present. No elements overlap.
+
+Actual:
+
+Website behaved as expected with the 
+Website was also opened on the following devices and no responsive issues were seen:
+   * Iphone SE
+   * Iphone 11
+   * Samsung Galaxy A51
+   * Samsung Galaxy A71
+   * Laptop Lenovo ThinkPad T460
+   * MacBook PRO M1 14 (2021)
+
+##Accessibility
+Testing was focused to ensure the following criteria were met:
+
+- All forms have associated labels or aria-labels so that this is read out on a screen reader to users who tab to form inputs
+- Color contrasts meet a minimum ratio as specified in [WCAG 2.1 Contrast Guidelines](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html)
+- Heading levels are not missed or skipped to ensure the importance of content is relayed correctly to the end user
+- All content is contained within landmarks to ensure ease of use for assistive technology, allowing the user to navigate by page regions
+- All not textual content had alternative text or titles so descriptions are read out to screen readers
+- HTML page lang attribute has been set
+- Aria properties have been implemented correctly
+- WCAG 2.1 Coding best practices being followed
+
+Manual tests were also performed to ensure the website was accessible as possible and an accessibility issue was identified.
+
+### Lighthouse Testing
+* Desktop test ![LightDesktop](https://user-images.githubusercontent.com/119350794/209126896-21ec06dd-7d56-4c12-8297-12f2f6194566.png)
+* Mobile test ![LightMobile](https://user-images.githubusercontent.com/119350794/209126941-e1be3e39-d0d8-4fed-bee3-372afb885b58.png)
+
+### W3C Validation Testing
+
+* html no errors ![NoErrors](https://user-images.githubusercontent.com/119350794/209127829-3cef5917-3ec7-4ba9-9e5a-b613f17c0a1f.png)
+* css no errors ![CSSnoErr](https://user-images.githubusercontent.com/119350794/209127910-b7ebc955-9043-4779-82de-dd48b86b8835.png)
+
+## Credits 
+
+* Code Institute  https://learn.codeinstitute.net/ci_program/diplomainsoftwaredevelopmentecomm
+
+* Youtube https://www.youtube.com/watch?v=KhGWbt1dAKQ&t=365s
+
+
+### Content 
+
+All content listed in the Media section of this document.Permission was granted from free stock images.
+
+### Media
+* Used their jpg map images in Climbing map page.
+https://excitingnepal.com/
+
+* Used their images in Images page.
+ shutterstock.com/
+
+### Unfixed Bugs
+
+* No bugs all fixed.
+
+
+
+
+
 
