@@ -132,6 +132,28 @@ Manual tests were also performed to ensure the website was accessible as possibl
  
 ![CSSnoErr](https://user-images.githubusercontent.com/119350794/209127910-b7ebc955-9043-4779-82de-dd48b86b8835.png)
 
+### Deployment to Github Pages
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the GitHub repository, navigate to the Settings tab 
+  - From the menu on left select 'Pages'
+  - From the source section drop-down menu, select the Branch: main
+  - Click 'Save'
+  - A live link will be displayed in a green banner when published successfully. 
+
+### Clone the Repository Code Locally
+
+Navigate to the GitHub Repository you want to clone to use locally:
+
+- Click on the code drop down button
+- Click on HTTPS
+- Copy the repository link to the clipboard
+- Open your IDE of choice (git must be installed for the next steps)
+- Type git clone copied-git-url into the IDE terminal
+
+The project will now of been cloned on your local machine for use.
+
+
 ## Credits 
 
 * Code Institute  https://learn.codeinstitute.net/ci_program/diplomainsoftwaredevelopmentecomm
