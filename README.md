@@ -15,6 +15,16 @@ Climb Everest is a website thats allows users to inspire do trekking in Nepal wi
 <img src="assets/images/climbmapDesktop.png">
 </details>
 
+* <details><summary>Images</summary>
+<img src="assets/images/imagesDesktop.png">
+</details>
+
+* <details><summary>Images</summary>
+<img src="assets/images/registerDesk.png">
+</details>
+
+
+
 
 ## Features
 
