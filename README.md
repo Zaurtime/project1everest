@@ -4,6 +4,18 @@ Climb Everest is a website thats allows users to inspire do trekking in Nepal wi
 
 ![multi-deviceGeneretor](https://user-images.githubusercontent.com/119350794/209062195-dfcf1be2-db7b-43f6-acca-16d86b4a8e24.png)
 
+## Wireframes
+
+### Desktop views :
+ * <details><summary>Home page</summary>
+<img src="assets/images/homeDesktop.png">
+</details>
+
+* <details><summary>Climb Map</summary>
+<img src="assets/images/climbmapDesktop.png">
+</details>
+
+
 ## Features
 
 ### Site wide
